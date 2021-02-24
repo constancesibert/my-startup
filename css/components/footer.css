@@ -1,0 +1,15 @@
+.footer {
+background-color: #EBE1C6;
+color: #355070;
+text-align: center;
+padding: 35px;
+}
+
+.text p{
+font-family: 'PT Sans', serif;
+color: black;
+font-size: 20px;
+margin: 0;
+padding: 0;
+}
+

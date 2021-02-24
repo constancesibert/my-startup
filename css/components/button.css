@@ -1,0 +1,29 @@
+.btn-blue { 
+background-color: #EBE1C6; 
+padding: 15px 20px;
+border-radius: 4px; 
+color: black;
+font-weight: bold;
+font-family: 'Roboto Mono', monospace;
+ }
+
+.avis { 
+background-color: #EBE1C6; 
+padding: 15px 20px;
+border-radius: 4px; 
+color: black;
+font-weight: bold;
+font-family: 'Roboto Mono', monospace;
+ }
+
+.contact { 
+padding: 15px 20px;
+color: #0E0E0E; 
+border-radius: 4px;
+text-align: center; 
+margin-top: 60px;
+background-color: #EBE1C6;
+font-family: 'Roboto', monospace;
+font-weight: bold; 
+}
+
